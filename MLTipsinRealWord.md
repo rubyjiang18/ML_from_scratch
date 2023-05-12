@@ -19,7 +19,7 @@ Focus on getting more and better data. In Kaggle competitions you are given the 
 
 Machine Learning models are a good combination of software (e.g. from a simple logistic regression all the way to a colossal Transformer) and DATA (capital letters, yes). Data is what makes projects successful or not, not models.
 
-## Tip 2
+## Tip 3
 Structure well you code. Jupyter notebooks are great for quickly prototyping and testing ideas. Pthon is a language designed for fast iterations, and Jupyter notebooks are the perfect match. However, notebooks quickly get crowded and unmanageable.\
 My advice: It is best practice to structure your Python code as a package and avoid code duplication. Python Poetry is my favorite tool. With just 3 commands you can generate most of the scaffolding you need.\
 

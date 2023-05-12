@@ -7,9 +7,9 @@ Online courses and Kaggle-style competitions are great resources to learn fundam
 
 ## Tip 1
 Understand the business problem first, then frame it as an ML problem. Otherwise, you will end up building a great ML model in a Jupyter Notebook, that does NOT move the business metric it was intended to move. My advice? Ask 3 questions:
-**Question 1**: What is the business metric we want to improve? It is crucial you talk with all relevant stakeholders at the beginning of the project. They have more business context than you and can help you understand what is the target you need to shoot at.\
-**Question 2**: Is there any solution currently working to solve this, like some rule-based heuristics? If there is one, this is the benchmark you have to beat in order to have a business impact. Otherwise, you can have a quick win by implementing a non-ML solution.\
-**Question 3**: Will the model be used as a black box or as a tool to assist humans to make better decisions? Creating blaxk-box solutions is easier than explainable ones. If you work in healthcare, for example, you need explainability. If you work in trading, you don't.\
+**Question 1**: What is the business metric we want to improve? It is crucial you talk with all relevant stakeholders at the beginning of the project. They have more business context than you and can help you understand what is the target you need to shoot at. <br>
+**Question 2**: Is there any solution currently working to solve this, like some rule-based heuristics? If there is one, this is the benchmark you have to beat in order to have a business impact. Otherwise, you can have a quick win by implementing a non-ML solution. <br>
+**Question 3**: Will the model be used as a black box or as a tool to assist humans to make better decisions? Creating blaxk-box solutions is easier than explainable ones. If you work in healthcare, for example, you need explainability. If you work in trading, you don't. <br>
 If you can answer these 3 questions above it means you know ****WHAT**** is the Machine Learning problem you need to solve.
 
 ## Tip 2

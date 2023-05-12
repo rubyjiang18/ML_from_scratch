@@ -17,13 +17,16 @@ If you can answer these 3 questions above it means you know ****WHAT**** is the 
 
 ## Tip 2
 Focus on getting more and better data. In Kaggle competitions you are given the data. In fact, all participants use the same data and compete against each other on who has the better model. The focus is on models, not on data. In reality, the opposite happens. But how do you get more and better data? IMHO there are 2 skilss you do not learn in online courses.
-**Skill 1**: You need to talk (a lot) with the data engineering guys. They know where each bit of data is. They can help you fetch it and use it to generate useful features for your models. Also, they can build pipelines to add 3rd party data that can help you.\
-**Skill 2**: The most universal language to access data is SQL, so you need to be fluent in it. This is especially true if you work in a less data-evolved environemnt, like a startup. Knowing SQL lets you quickly build the training data.\
+
+**Skill 1**: You need to talk (a lot) with the data engineering guys. They know where each bit of data is. They can help you fetch it and use it to generate useful features for your models. Also, they can build pipelines to add 3rd party data that can help you.
+
+**Skill 2**: The most universal language to access data is SQL, so you need to be fluent in it. This is especially true if you work in a less data-evolved environemnt, like a startup. Knowing SQL lets you quickly build the training data.
 
 Machine Learning models are a good combination of software (e.g. from a simple logistic regression all the way to a colossal Transformer) and DATA (capital letters, yes). Data is what makes projects successful or not, not models.
 
 ## Tip 3
-Structure well you code. Jupyter notebooks are great for quickly prototyping and testing ideas. Pthon is a language designed for fast iterations, and Jupyter notebooks are the perfect match. However, notebooks quickly get crowded and unmanageable.\
-My advice: It is best practice to structure your Python code as a package and avoid code duplication. Python Poetry is my favorite tool. With just 3 commands you can generate most of the scaffolding you need.\
+Structure well you code. Jupyter notebooks are great for quickly prototyping and testing ideas. Pthon is a language designed for fast iterations, and Jupyter notebooks are the perfect match. However, notebooks quickly get crowded and unmanageable.
+
+My advice: It is best practice to structure your Python code as a package and avoid code duplication. Python Poetry is my favorite tool. With just 3 commands you can generate most of the scaffolding you need.
 
 That's a wrap! The job of professional MLE is more complex than what you will learn in any online course. I hope these 3 tips make your life easier and help you become even better at what you love.
